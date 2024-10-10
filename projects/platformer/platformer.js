@@ -73,7 +73,7 @@ createPlatform(1060, 200, 60, 10)
 
     createCollectable("steve", 380, 309, 1, 1)
     createCollectable("steve", 1100, 40, 0, 1)
-    createCollectable("steve", 150, 90, 0, 1)
+    createCollectable("steve", 170, 90, 0, 1)
     
     // TODO 3
     // Create cannons
