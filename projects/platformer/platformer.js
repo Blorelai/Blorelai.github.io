@@ -59,13 +59,12 @@ createPlatform(350, 510, 100, 10)
 createPlatform(1050, 490, 10, 70)
 createPlatform(1050, 350, 10, 70)
 createPlatform(950, 420, 10, 80)
-createPlatform(1330, 630, 70, 10)
-createPlatform(1180, 530, 70, 10)
-createPlatform(1330, 430, 70, 10)
-createPlatform(1180, 330, 70, 10)
-createPlatform(1330, 191, 70, 10)
+createPlatform(1050, 620, 70, 10)
+createPlatform(1050, 490, 60, 10)
+createPlatform(1340, 420, 70, 10)
+createPlatform(1350, 290, 60, 10)
+createPlatform(1060, 200, 60, 10)
 
-    
     // TODO 2
     // Create collectables
     // You must decide on the collectable type, the x position, the y position, the gravity, and the bounce strength
@@ -83,7 +82,7 @@ createPlatform(1330, 191, 70, 10)
     // example usage: createCannon(side, position, delay, width, height)
 
     createCannon("top", 460, 1500)
-    createCannon("right", 310, 2000)
+    createCannon("right", 200, 2000)
     createCannon("top", 1275, 1300)
     createCannon("top", 900, 1000)
 
